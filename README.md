@@ -48,4 +48,7 @@ Port: 443
 
 <TODO: Add link Screencast on YouTube>
 
+## Screen Shots
 
+This is a sample image:
+![alt text](https://github.com/bvt3/flask-sklearn-benito-tio/blob/main/Screenshots/Image01.jpg?raw=true)
