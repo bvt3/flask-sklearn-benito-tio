@@ -50,4 +50,4 @@ Port: 443
 
 ## Screen Shots
 
-Note: To not crowd this page, please navigate to this URL as I separated the screen shots to the [Screenshots](https://github.com/bvt3/flask-sklearn-benito-tio/tree/main/Screenshots) folder.
+Note: To not crowd this page, please navigate to [Screenshots](https://github.com/bvt3/flask-sklearn-benito-tio/tree/main/Screenshots) folder to view all the screen shots.
